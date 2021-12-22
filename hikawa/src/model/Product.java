@@ -3,7 +3,7 @@ package model;
 /**
  * クラス名：	Product
  * 概要：	商品情報
-
+//aaaaa
  */
 
 public class Product extends Object{
