@@ -3,7 +3,7 @@ package model;
 /**
  * クラス名：	Product
  * 概要：	商品情報
-//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
+
  */
 
 public class Product extends Object{
