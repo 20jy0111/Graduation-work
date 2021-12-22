@@ -5,7 +5,7 @@ package model;
  * 概要：	商品情報
 
  */
-//asdf
+//asd
 
 public class Product extends Object{
 		private int PdCode; //商品コード
